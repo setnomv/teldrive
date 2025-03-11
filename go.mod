@@ -1,4 +1,4 @@
-module github.com/tgdrive/teldrive
+module github.com/setnomv/teldrive
 
 go 1.23.3
 
